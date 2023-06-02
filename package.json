@@ -1,0 +1,7 @@
+{
+  "name": "com.google.google-signin-unity",
+  "version": "1.0.4",
+  "displayName": "Google Sign In",
+  "description": "Google Sign In plugin forked from https://github.com/CodeMasterYi/google-signin-unity",
+  "unity": "2019.3"
+}
